@@ -12,5 +12,4 @@ Course website: https://nt246.github.io/NTRES-6100-data-science/
 
 A rendered html version of all the lecture notes are in ./docs/ (view file in browser, not on GitHub)
 
-Lab 2: https://github.com/jingzhi714/Assignment2-Project.git
 
